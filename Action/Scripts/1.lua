@@ -1,5 +1,5 @@
 ---------start script
-Paragraph.SetText("Title", "创建技能");
+Paragraph.SetText("Title", "创建一个基本技能");
 Paragraph.SetText("Detail", "创建一个基本的创建技能脚本。");
 
 ---------progress 1
@@ -47,14 +47,14 @@ DialogEx.SetObjectScript("xButton1", "On Click", "_Combo1Stored = ComboBox.GetTe
 
 ---------end script
 -------copyright information
-_ActionCreator = "";
-_ActionCopyright = "";
-_ActionTrademarks = "";
+_ActionCreator = "BroFrank";
+_ActionCopyright = "Copyright 2012 BroFrank. All Rights Reserved.";
+_ActionTrademarks = "Qsanguosha General Creator Action";
 _ActionPrivate = "";
 _ActionSpecial = "";
 _ActionCompany = "";
-_ActionVersion = "";
-_ActionCreateDate = "07/17/12";
+_ActionVersion = "1.0.0.1";
+_ActionCreateDate = "08/28/12";
 _ActionAddon1 = "";
 _ActionAddon2 = "";
 
