@@ -1,0 +1,1 @@
+Application.RunScriptFile("Scripts\\Global\\ReadCommandLine_1.lua");

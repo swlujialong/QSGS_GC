@@ -1,0 +1,1 @@
+Application.RunScriptFile("Scripts\\Homepage\\StopTimer.lua");

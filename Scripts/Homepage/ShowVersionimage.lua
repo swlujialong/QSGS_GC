@@ -1,0 +1,2 @@
+if File.DoesExist("UI\\Sanguosha\\VersionType"..INIFile.GetValue("Config\\Config.ini", "Info", "VersionType")..".image") == true then
+Image.Load("VersionType", "UI\\Sanguosha\\VersionType"..INIFile.GetValue("Config\\Config.ini", "Info", "VersionType")..".image"); end
